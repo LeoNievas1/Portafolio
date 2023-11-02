@@ -211,7 +211,7 @@ h6 {
 .nav-menu .active,
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
-  color: #000000;
+  color: #ffffff;
   background: #0563bb;
 }
 
@@ -219,13 +219,13 @@ h6 {
 .nav-menu .active span,
 .nav-menu .active:focus span,
 .nav-menu li:hover>a span {
-  color: #000000;
+  color: #ffffff;
 }
 
 .nav-menu a:hover,
 .nav-menu li:hover>a {
   width: 100%;
-  color: #000000;
+  color: #ffffff;
 }
 
 .nav-menu a:hover span,
@@ -1057,7 +1057,7 @@ section {
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
   background: #0563bb;
-  color: #000000;
+  color: #ffffff;
 }
 
 .contact .php-email-form {
@@ -1130,7 +1130,7 @@ section {
   background: #0563bb;
   border: 0;
   padding: 10px 35px;
-  color: #000000;
+  color: #ffffff;
   transition: 0.4s;
   border-radius: 50px;
 }
@@ -1184,7 +1184,7 @@ section {
   font-size: 18px;
   display: inline-block;
   background: #0563bb;
-  color: #000000;
+  color: #ffffff;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
